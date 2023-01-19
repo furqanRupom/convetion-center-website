@@ -1,0 +1,33 @@
+
+.background-image-1{
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+
+.mt-6{
+    margin-top: 10rem;
+}
+
+.font-md{
+    font-size: 1.2rem;
+}
+
+.w-sm{
+    width: 1rem;
+}
+
+svg{
+    color: #FFF;
+}
+
+.toast{
+    border: none;
+    width: fit-content;
+    padding: 0.1rem 0.3rem;
+    border-left: 10px solid #3F87F5;
+    
+}
