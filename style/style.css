@@ -31,3 +31,12 @@ svg{
     border-left: 10px solid #3F87F5;
     
 }
+
+
+.text-fortune{
+    color: #3F87F5;
+}
+
+.bigger{
+    transform: scale(1.1);
+}
